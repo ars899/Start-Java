@@ -1,0 +1,18 @@
+"AddonInfo"
+{
+	"name" "Active Camouflage"
+	"author_name" "author"
+	"info" "Hide from your foes with a wonderful blend of the Crysis Cloak mode and the infamous Active Camo from the Halo series.
+
+To Do:
+- Add bouncy icon in weapon selection.
+- Make the stealth apply to NPCs.
+- Add selectable soundpacks, "Crysis" being the default soundpack.
+
+Rules of this page:
+
+1. Do NOT post advertisements on this page. You will just get cursed at and your comment will be removed.
+For example: "hey evry 1 pls chck out my kewl seasgo skin at bit.ly/u3XejK"
+
+2. There is only one rule."
+}

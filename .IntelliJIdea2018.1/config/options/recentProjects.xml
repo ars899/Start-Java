@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Start_Java" />
+        <option value="$USER_HOME$/basejava" />
+        <option value="$USER_HOME$/untitled" />
+        <option value="$USER_HOME$/IdeaProjects/basejava" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Start_Java" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Start_Java" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/basejava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4445.78" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524228297934" />
+              <option name="buildTimestamp" value="1523304515628" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Start_Java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4445.78" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546897363061" />
+              <option name="buildTimestamp" value="1523304494813" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/basejava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4445.78" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546886953477" />
+              <option name="buildTimestamp" value="1523304501007" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4445.78" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536826576316" />
+              <option name="buildTimestamp" value="1523304500177" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

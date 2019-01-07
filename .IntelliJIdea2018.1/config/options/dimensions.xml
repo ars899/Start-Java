@@ -1,0 +1,36 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1280.1024" x="419" y="383" />
+    <location key="new project wizard.0.0.1280.1024" x="277" y="243" />
+    <location key="WELCOME_SCREEN.0.0.1280.1024" x="642" y="432" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.1024" x="319" y="329" />
+    <location key="#Project_Structure.0.0.1280.1024" x="120" y="81" />
+    <location key="Github.CreateGistDialog.0.0.1280.1024" x="525" y="413" />
+    <location key="GitCloneDialog.0.0.1280.1024" x="453" y="427" />
+    <location key="NewModule_or_Project.wizard.0.0.1280.1024" x="285" y="62" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1280.1024" x="407" y="397" />
+    <location key="RollbackChangesDialog.0.0.1280.1024" x="461" y="215" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1280.1024" x="475" y="211" />
+    <location key="CommitChangelistDialog2.0.0.1280.1024" x="261" y="104" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1280.1024" x="475" y="366" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.1024" x="417" y="306" />
+    <location key="Vcs.Push.Dialog.0.0.1280.1024" x="285" y="306" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1280.1024" x="381" y="124" />
+    <location key="DiffContextDialog.0.0.1280.1024" x="120" y="84" />
+    <location key="new project wizard.1280.0.1280.1024" x="1557" y="132" />
+    <location key="#S1.1280.0.1280.1024" x="1642" y="169" />
+    <location key="SettingsEditor.1280.0.1280.1024" x="1397" y="152" />
+    <location key="Github.CreateGistDialog.1280.0.1280.1024" x="1805" y="413" />
+    <location key="Vcs.Push.Dialog.1280.0.1280.1024" x="1596" y="236" />
+    <location key="CommitChangelistDialog2.1280.0.1280.1024" x="1541" y="104" />
+    <size key="GitCloneDialog.0.0.1280.1024" width="439" height="218" />
+    <size key="GridCell.Tab.0.left.0.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.center.0.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.right.0.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.left.1280.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.center.1280.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.right.1280.0.1280.1024" width="1280" height="279" />
+    <size key="GridCell.Tab.0.bottom.1280.0.1280.1024" width="1280" height="279" />
+  </component>
+</application>
